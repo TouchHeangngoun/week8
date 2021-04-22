@@ -8,11 +8,11 @@
                         <div class="input-box">
                             <i class="fa fa-map-marker"></i>
                             <select class="niceSelect">
-                                <option value="1">Your Destination</option>
-                                <option value="2">Argentina</option>
-                                <option value="3">Belgium</option>
-                                <option value="4">Canada</option>
-                                <option value="5">Denmark</option>
+                                <option value="1">Place TO Go</option>
+                                <option value="2">Phnom Penh</option>
+                                <option value="3">Seim Reab</option>
+                                <option value="4">Sihanouk</option>
+                                <option value="5">Ratanak Kiri</option>
                             </select>
                         </div>                            
                     </div>
@@ -30,7 +30,7 @@
                         </div>                            
                     </div>
 
-                    <div class="form-group pr-4 m-0">
+                    <!-- <div class="form-group pr-4 m-0">
                         <div class="input-box">
                             <i class="fa fa-clock"></i>
                             <select class="niceSelect">
@@ -41,10 +41,10 @@
                                 <option value="5">5</option>
                             </select>
                         </div>                             
-                    </div>
+                    </div> -->
 
                     <div class="form-group m-0 w-100">
-                        <a href="#" class="nir-btn"><i class="fa fa-search"></i> Check Availability</a>
+                        <a href="#" class="nir-btn"><i class="fa fa-search"></i> Search Your Place</a>
                     </div>
                 </div>
             </div>
