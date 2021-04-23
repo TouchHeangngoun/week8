@@ -24,7 +24,7 @@
                         </div>
                         <div class="desti-overlay">
                             <a href="#" class="nir-btn">
-                              <span class="white">Book Now</span>
+                              <span class="white">Read More</span>
                                 <i class="fa fa-arrow-right white pl-1"></i>
                             </a>
                         </div>
@@ -45,7 +45,7 @@
                         </div>
                         <div class="desti-overlay">
                             <a href="#" class="nir-btn">
-                              <span class="white">Book Now</span>
+                              <span class="white">Read More</span>
                                 <i class="fa fa-arrow-right white pl-1"></i>
                             </a>
                         </div>
@@ -66,7 +66,7 @@
                         </div>
                         <div class="desti-overlay">
                             <a href="#" class="nir-btn">
-                              <span class="white">Book Now</span>
+                              <span class="white">Read More</span>
                                 <i class="fa fa-arrow-right white pl-1"></i>
                             </a>
                         </div>
@@ -87,7 +87,7 @@
                         </div>
                          <div class="desti-overlay">
                             <a href="#" class="nir-btn">
-                              <span class="white">Book Now</span>
+                              <span class="white">Read More</span>
                                 <i class="fa fa-arrow-right white pl-1"></i>
                             </a>
                         </div>
@@ -108,7 +108,7 @@
                         </div>
                         <div class="desti-overlay">
                             <a href="#" class="nir-btn">
-                              <span class="white">Book Now</span>
+                              <span class="white">Read More</span>
                                 <i class="fa fa-arrow-right white pl-1"></i>
                             </a>
                         </div>
@@ -129,7 +129,7 @@
                         </div>
                         <div class="desti-overlay">
                             <a href="#" class="nir-btn">
-                              <span class="white">Book Now</span>
+                              <span class="white">Read More</span>
                                 <i class="fa fa-arrow-right white pl-1"></i>
                             </a>
                         </div>

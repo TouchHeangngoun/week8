@@ -8,13 +8,13 @@
                         <div class="footer-about bg-white p-4">
                             <img src="{{asset('fe/images/logo.png')}}" alt="">
                             <p class="mt-3">
-                                In ut odio libero, at vulputate urna. Nulla tristique mi a massa convallis cursus. Nulla eu mi magna
+                            Cambodia may be a small country, but it offers everything one needs for a wonderful vacation. Above the many reasons why most visitors return to visit time and again, are two that many would find difficult to match elsewhere.
                             </p>
                             <ul>
-                                <li><strong>PO Box:</strong> +47-252-254-2542</li>
-                                <li><strong>Location:</strong> Collins Street, sydney, Australia</li>
-                                <li><strong>Email:</strong> info@Yatriiworld.com</li>
-                                <li><strong>Website:</strong> www.Yatriiworld.com</li>
+                                <li><strong>PO Box:</strong> +855 96 9999 168</li>
+                                <li><strong>Location:</strong> Cambodia</li><br>
+                                <li><strong>Email:</strong> Easyway.com</li>
+                                <li><strong>Website:</strong> www.Easyway.com</li>
                             </ul>
                         </div>
                     </div>
