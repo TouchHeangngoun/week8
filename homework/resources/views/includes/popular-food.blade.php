@@ -5,8 +5,8 @@
             <div class="row d-flex align-items-center">
                 <div class="col-lg-4 col-md-6 p-1">
                     <div class="desti-title text-center">
-                        <h2 class="white">Travel <br>Best Holidays Trips <br>In The World</h2>
-                        <p class="white mb-0">Lorem Ipsum is simply dummy text the printing and typesetting industry.</p>
+                        <h2 class="white">Best Place Food <br> Restaurant & <br>Street Food </h2>
+                        <p class="white mb-0">Cambodian cuisine (Khmer: សិល្បៈខាងធ្វើម្ហូបខ្មែរ) is the cuisine of the people of Cambodia, whereas Khmer cuisine refers exclusively to the cuisine of the ethnic Khmer people.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 p-1">
@@ -20,7 +20,7 @@
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
                             </div>
-                            <h4 class="white mb-0">New York Tour</h4>
+                            <h4 class="white mb-0">Restaurant</h4>
                         </div>
                         <div class="desti-overlay">
                             <a href="#" class="nir-btn">
@@ -41,7 +41,7 @@
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
                             </div>
-                            <h4 class="white mb-0">Armania Tour</h4>
+                            <h4 class="white mb-0">Street Food</h4>
                         </div>
                         <div class="desti-overlay">
                             <a href="#" class="nir-btn">
@@ -75,7 +75,7 @@
                 <div class="col-lg-3 col-md-6 p-1">
                     <div class="desti-image">
                         <img src="{{asset('fe/images/destination/destination7.jpg')}}" alt="desti">
-                        <div class="desti-content">
+                        <div class="desti-content ">
                             <div class="rating mb-1">
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>

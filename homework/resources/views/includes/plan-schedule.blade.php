@@ -13,6 +13,14 @@
                                 <option value="3">Seim Reab</option>
                                 <option value="4">Sihanouk</option>
                                 <option value="5">Ratanak Kiri</option>
+                                <option value="2">Phnom Penh</option>
+                                <option value="3">Seim Reab</option>
+                                <option value="4">Sihanouk</option>
+                                <option value="5">Ratanak Kiri</option>
+                                <option value="2">Phnom Penh</option>
+                                <option value="3">Seim Reab</option>
+                                <option value="4">Sihanouk</option>
+                                <option value="5">Ratanak Kiri</option>
                             </select>
                         </div>                            
                     </div>

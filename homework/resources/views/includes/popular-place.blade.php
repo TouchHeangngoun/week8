@@ -239,8 +239,15 @@
                         <h6 class="font-weight-normal pink"><i class="fa fa-map-marker-alt"></i> United Kingdom</h6>
                         <h4><a href="#">Earning Asiana Club Miles</a></h4>
                         <p>With upto 30% Off, experience Europe your way!</p>
-                        <div class="deal-price">
-                            <p class="price font-weight-bold pink mb-0">From <span>$250.00</span></p>
+                        <div class="rating-main d-flex align-items-center font-weight-bold pink mb-0 ">
+                            <div class="rating">
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                            </div>
+                            <span class="ml-2">38 Reviews</span>
                         </div>
                     </div>
                 </div>
@@ -249,11 +256,18 @@
                         <img src="{{asset('fe/images/new-deal/deal2.jpg')}}" alt="image">
                     </div>
                     <div class="slider-content">
-                        <h6 class="font-weight-normal pink"><i class="fa fa-map-marker-alt"></i> Thailand</h6>
+                        <h6 class="font-weight-normal pink"><i class="fa fa-map-marker-alt"></i> Phnom Penh</h6>
                         <h4><a href="#">Save big on hotels!</a></h4>
                         <p>With upto 30% Off, experience Europe your way!</p>
-                        <div class="deal-price">
-                            <p class="price font-weight-bold pink mb-0">From <span>$250.00</span></p>
+                        <div class="rating-main d-flex align-items-center font-weight-bold pink mb-0 ">
+                            <div class="rating">
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                            </div>
+                            <span class="ml-2">38 Reviews</span>
                         </div>
                     </div>
                 </div>
@@ -262,11 +276,18 @@
                         <img src="{{asset('fe/images/new-deal/deal3.jpg')}}" alt="image">
                     </div>
                     <div class="slider-content">
-                        <h6 class="font-weight-normal pink"><i class="fa fa-map-marker-alt"></i> South Korea</h6>
+                        <h6 class="font-weight-normal pink"><i class="fa fa-map-marker-alt"></i> Shihanouk</h6>
                         <h4><a href="#">Experience Europe Your Way</a></h4>
                         <p>With upto 30% Off, experience Europe your way!</p>
-                        <div class="deal-price">
-                            <p class="price font-weight-bold pink mb-0">From <span>$250.00</span></p>
+                        <div class="rating-main d-flex align-items-center font-weight-bold pink mb-0 ">
+                            <div class="rating">
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                            </div>
+                            <span class="ml-2">38 Reviews</span>
                         </div>
                     </div>
                 </div>
@@ -275,11 +296,18 @@
                         <img src="{{asset('fe/images/new-deal/deal4.jpg')}}" alt="image">
                     </div>
                     <div class="slider-content">
-                        <h6 class="font-weight-normal pink"><i class="fa fa-map-marker-alt"></i> Germany</h6>
+                        <h6 class="font-weight-normal pink"><i class="fa fa-map-marker-alt"></i> Seim Reab</h6>
                         <h4><a href="#">Earning Asiana Club Miles</a></h4>
                         <p>With upto 30% Off, experience Europe your way!</p>
-                        <div class="deal-price">
-                            <p class="price font-weight-bold pink mb-0">From <span>$250.00</span></p>
+                        <div class="rating-main d-flex align-items-center font-weight-bold pink mb-0 ">
+                            <div class="rating">
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                            </div>
+                            <span class="ml-2">38 Reviews</span>
                         </div>
                     </div>
                 </div>
