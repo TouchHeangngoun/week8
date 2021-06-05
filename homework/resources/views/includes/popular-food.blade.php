@@ -6,12 +6,12 @@
                 <div class="col-lg-4 col-md-6 p-1">
                     <div class="desti-title text-center">
                         <h2 class="white">Best Place Food <br> Restaurant & <br>Street Food </h2>
-                        <p class="white mb-0">Cambodian cuisine (Khmer: សិល្បៈខាងធ្វើម្ហូបខ្មែរ) is the cuisine of the people of Cambodia, whereas Khmer cuisine refers exclusively to the cuisine of the ethnic Khmer people.</p>
+                        <p class="white mb-0">Cambodian cuisine (Khmer: សិល្បៈខាងធ្វើម្ហូបខ្មែរ) is the cuisine of the people of Cambodia, whereas Khmer cuisine refrontendrs exclusively to the cuisine of the ethnic Khmer people.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 p-1">
                     <div class="desti-image">
-                        <img src="{{asset('fe/images/destination/destination3.jpg')}}" alt="desti">
+                        <img src="{{asset('frontend/images/destination/destination3.jpg')}}" alt="desti">
                         <div class="desti-content">
                             <div class="rating mb-1">
                                 <span class="fa fa-star checked"></span>
@@ -32,7 +32,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 p-1">
                     <div class="desti-image">
-                        <img src="{{asset('fe/images/destination/destination4.jpg')}}" alt="desti">
+                        <img src="{{asset('frontend/images/destination/destination4.jpg')}}" alt="desti">
                         <div class="desti-content">
                             <div class="rating mb-1">
                                 <span class="fa fa-star checked"></span>
@@ -53,7 +53,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 p-1">
                     <div class="desti-image">
-                        <img src="{{asset('fe/images/destination/destination5.jpg')}}" alt="desti">
+                        <img src="{{asset('frontend/images/destination/destination5.jpg')}}" alt="desti">
                         <div class="desti-content">
                             <div class="rating mb-1">
                                 <span class="fa fa-star checked"></span>
@@ -74,7 +74,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 p-1">
                     <div class="desti-image">
-                        <img src="{{asset('fe/images/destination/destination7.jpg')}}" alt="desti">
+                        <img src="{{asset('frontend/images/destination/destination7.jpg')}}" alt="desti">
                         <div class="desti-content ">
                             <div class="rating mb-1">
                                 <span class="fa fa-star checked"></span>
@@ -95,7 +95,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 p-1">
                     <div class="desti-image">
-                        <img src="{{asset('fe/images/destination/destination8.jpg')}}" alt="desti">
+                        <img src="{{asset('frontend/images/destination/destination8.jpg')}}" alt="desti">
                         <div class="desti-content">
                             <div class="rating mb-1">
                                 <span class="fa fa-star checked"></span>
@@ -116,7 +116,7 @@
                 </div>
                 <div class="col-lg-3 col-md-12 p-1">
                     <div class="desti-image">
-                        <img src="{{asset('fe/images/destination/destination9.jpg')}}" alt="desti">
+                        <img src="{{asset('frontend/images/destination/destination9.jpg')}}" alt="desti">
                         <div class="desti-content">
                             <div class="rating mb-1">
                                 <span class="fa fa-star checked"></span>

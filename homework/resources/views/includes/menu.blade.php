@@ -8,8 +8,8 @@
                         <!-- Brand and toggle get grouped for better mobile display -->
                         <div class="navbar-header">
                             <a class="navbar-brand" href="index-2.html">
-                                <img src="{{asset('fe/images/logo-white.png')}}" alt="image">
-                                <img src="{{asset('fe/images/logo.png')}}" alt="image">
+                                <img src="{{asset('frontend/images/logo-white.png')}}" alt="image">
+                                <img src="{{asset('frontend/images/logo.png')}}" alt="image">
                             </a>
                         </div>
                         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -28,11 +28,11 @@
                                     </ul> 
                                  </li>
 
-                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="contact.html">About Us</a></li>
                             </ul>
                         </div><!-- /.navbar-collapse -->   
                         <div class="register-login">
-                            <a href="#" class="mr-2" data-toggle="modal" data-target="#register"><i class="icon-user mr-1"></i> Register</a>
+                            <a href="#" class="mr-2" data-toggle="modal" data-target="#login"><i class="icon-user mr-1"></i> Register</a>
                             <a href="#" data-toggle="modal" data-target="#login"><i class="icon-login mr-1"></i> Login</a>
                         </div>
 

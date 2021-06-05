@@ -2,15 +2,15 @@
  <section class="trending pb-6 pt-5">
         <div class="container">
             <div class="section-title text-center mb-5 pb-2 w-50 mx-auto"><br><br>
-                <h2 class="m-0">Perfect <span>Tour Packages</span></h2>
-                <p class="mb-0">Travel has helped us to understand the meaning of life and it has helped us become better people. Each time we travel, we see the world with new eyes.</p>
+                <h2 class="m-0">Perfrontendct <span>Tour Packages</span></h2>
+                <p class="mb-0">Travel has helped us to understand the meaning of lifrontend and it has helped us become better people. Each time we travel, we see the world with new eyes.</p>
             </div>  
             <div class="trend-box">
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-xs-12 mb-4">
                         <div class="trend-item">
                             <div class="trend-image">
-                                <img src="{{asset('fe/images/trending/trending1.jpg')}}" alt="image">
+                                <img src="{{asset('frontend/images/trending/trending1.jpg')}}" alt="image">
                                 <!-- <div class="trend-tags">
                                     <a href="#"><i class="flaticon-like"></i></a>
                                 </div> -->
@@ -31,7 +31,7 @@
                                     </div>
                                 </div>
                                 <div class="trend-last-main">
-                                    <p class="mb-0 trend-para">A wonderful little cottage right on the seashore - perfect for exploring.</p>
+                                    <p class="mb-0 trend-para">A wonderful little cottage right on the seashore - perfrontendct for exploring.</p>
                                     <div class="trend-last d-flex align-items-center justify-content-between">
                                         <p class="mb-0 white"><i class="fa fa-clock-o" aria-hidden="true"></i> 3 days & 2 night</p>
                                         <div class="trend-price">
@@ -45,7 +45,7 @@
                     <div class="col-lg-4 col-md-6 col-xs-12 mb-4">
                         <div class="trend-item">
                             <div class="trend-image">
-                                <img src="{{asset('fe/images/trending/trending2.jpg')}}" alt="image">
+                                <img src="{{asset('frontend/images/trending/trending2.jpg')}}" alt="image">
                                 <!-- <div class="trend-tags">
                                     <a href="#"><i class="flaticon-like"></i></a>
                                 </div> -->
@@ -66,7 +66,7 @@
                                     </div>
                                 </div>
                                 <div class="trend-last-main">
-                                    <p class="mb-0 trend-para">A wonderful little cottage right on the seashore - perfect for exploring.</p>
+                                    <p class="mb-0 trend-para">A wonderful little cottage right on the seashore - perfrontendct for exploring.</p>
                                     <div class="trend-last d-flex align-items-center justify-content-between">
                                         <p class="mb-0 white"><i class="fa fa-clock-o" aria-hidden="true"></i> 3 days & 2 night</p>
                                         <div class="trend-price">
@@ -80,7 +80,7 @@
                     <div class="col-lg-4 col-md-6 col-xs-12 mb-4">
                         <div class="trend-item">
                             <div class="trend-image">
-                                <img src="{{asset('fe/images/trending/trending3.jpg')}}" alt="image">
+                                <img src="{{asset('frontend/images/trending/trending3.jpg')}}" alt="image">
                                 <!-- <div class="trend-tags">
                                     <a href="#"><i class="flaticon-like"></i></a>
                                 </div> -->
@@ -101,7 +101,7 @@
                                     </div>
                                 </div>
                                 <div class="trend-last-main">
-                                    <p class="mb-0 trend-para">A wonderful little cottage right on the seashore - perfect for exploring.</p>
+                                    <p class="mb-0 trend-para">A wonderful little cottage right on the seashore - perfrontendct for exploring.</p>
                                     <div class="trend-last d-flex align-items-center justify-content-between">
                                         <p class="mb-0 white"><i class="fa fa-clock-o" aria-hidden="true"></i> 3 days & 2 night</p>
                                         <div class="trend-price">
@@ -115,7 +115,7 @@
                     <div class="col-lg-4 col-md-6 col-xs-12 mb-4">
                         <div class="trend-item">
                             <div class="trend-image">
-                                <img src="{{asset('fe/images/trending/trending4.jpg')}}" alt="image">
+                                <img src="{{asset('frontend/images/trending/trending4.jpg')}}" alt="image">
                                 <!-- <div class="trend-tags">
                                     <a href="#"><i class="flaticon-like"></i></a>
                                 </div> -->
@@ -136,7 +136,7 @@
                                     </div>
                                 </div>
                                 <div class="trend-last-main">
-                                    <p class="mb-0 trend-para">A wonderful little cottage right on the seashore - perfect for exploring.</p>
+                                    <p class="mb-0 trend-para">A wonderful little cottage right on the seashore - perfrontendct for exploring.</p>
                                     <div class="trend-last d-flex align-items-center justify-content-between">
                                         <p class="mb-0 white"><i class="fa fa-clock-o" aria-hidden="true"></i> 3 days & 2 night</p>
                                         <div class="trend-price">
@@ -150,7 +150,7 @@
                     <div class="col-lg-4 col-md-6 col-xs-12 mb-4">
                         <div class="trend-item">
                             <div class="trend-image">
-                                <img src="{{asset('fe/images/trending/trending5.jpg')}}" alt="image">
+                                <img src="{{asset('frontend/images/trending/trending5.jpg')}}" alt="image">
                                 <!-- <div class="trend-tags">
                                     <a href="#"><i class="flaticon-like"></i></a>
                                 </div> -->
@@ -171,7 +171,7 @@
                                     </div>
                                 </div>
                                 <div class="trend-last-main">
-                                    <p class="mb-0 trend-para">A wonderful little cottage right on the seashore - perfect for exploring.</p>
+                                    <p class="mb-0 trend-para">A wonderful little cottage right on the seashore - perfrontendct for exploring.</p>
                                     <div class="trend-last d-flex align-items-center justify-content-between">
                                         <p class="mb-0 white"><i class="fa fa-clock-o" aria-hidden="true"></i> 3 days & 2 night</p>
                                         <div class="trend-price">
@@ -185,7 +185,7 @@
                     <div class="col-lg-4 col-md-6 col-xs-12 mb-4">
                         <div class="trend-item">
                             <div class="trend-image">
-                                <img src="{{asset('fe/images/trending/trending6.jpg')}}" alt="image">
+                                <img src="{{asset('frontend/images/trending/trending6.jpg')}}" alt="image">
                                 <!-- <div class="trend-tags">
                                     <a href="#"><i class="flaticon-like"></i></a>
                                 </div> -->
@@ -206,7 +206,7 @@
                                     </div>
                                 </div>
                                 <div class="trend-last-main">
-                                    <p class="mb-0 trend-para">A wonderful little cottage right on the seashore - perfect for exploring.</p>
+                                    <p class="mb-0 trend-para">A wonderful little cottage right on the seashore - perfrontendct for exploring.</p>
                                     <div class="trend-last d-flex align-items-center justify-content-between">
                                         <p class="mb-0 white"><i class="fa fa-clock-o" aria-hidden="true"></i> 3 days & 2 night</p>
                                         <div class="trend-price">
@@ -228,12 +228,12 @@
         <div class="container">
             <div class="section-title text-center mb-5 pb-2 w-50 mx-auto">
                 <h2 class="m-0">Today's <span>Top Deal</span></h2>
-                <p class="mb-0">Travel has helped us to understand the meaning of life and it has helped us become better people. Each time we travel, we see the world with new eyes.</p>
+                <p class="mb-0">Travel has helped us to understand the meaning of lifrontend and it has helped us become better people. Each time we travel, we see the world with new eyes.</p>
             </div> 
             <div class="row team-slider">
                 <div class="col-lg-4 slider-item">
                     <div class="slider-image">
-                        <img src="{{asset('fe/images/new-deal/deal1.jpg')}}" alt="image">
+                        <img src="{{asset('frontend/images/new-deal/deal1.jpg')}}" alt="image">
                     </div>
                     <div class="slider-content">
                         <h6 class="font-weight-normal pink"><i class="fa fa-map-marker-alt"></i> United Kingdom</h6>
@@ -253,7 +253,7 @@
                 </div>
                 <div class="col-lg-4 slider-item">
                     <div class="slider-image">
-                        <img src="{{asset('fe/images/new-deal/deal2.jpg')}}" alt="image">
+                        <img src="{{asset('frontend/images/new-deal/deal2.jpg')}}" alt="image">
                     </div>
                     <div class="slider-content">
                         <h6 class="font-weight-normal pink"><i class="fa fa-map-marker-alt"></i> Phnom Penh</h6>
@@ -273,7 +273,7 @@
                 </div>
                 <div class="col-lg-4 slider-item">
                     <div class="slider-image">
-                        <img src="{{asset('fe/images/new-deal/deal3.jpg')}}" alt="image">
+                        <img src="{{asset('frontend/images/new-deal/deal3.jpg')}}" alt="image">
                     </div>
                     <div class="slider-content">
                         <h6 class="font-weight-normal pink"><i class="fa fa-map-marker-alt"></i> Shihanouk</h6>
@@ -293,7 +293,7 @@
                 </div>
                 <div class="col-md-4 slider-item">
                     <div class="slider-image">
-                        <img src="{{asset('fe/images/new-deal/deal4.jpg')}}" alt="image">
+                        <img src="{{asset('frontend/images/new-deal/deal4.jpg')}}" alt="image">
                     </div>
                     <div class="slider-content">
                         <h6 class="font-weight-normal pink"><i class="fa fa-map-marker-alt"></i> Seim Reab</h6>

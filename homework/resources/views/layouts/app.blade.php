@@ -46,47 +46,47 @@
             <div class="row attract-slider">
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="insta-image">
-                        <a href="#"><img src="{{asset('fe/images/insta/ins-3.jpg')}}" alt="insta"></a>
+                        <a href="#"><img src="{{asset('frontend/images/insta/ins-3.jpg')}}" alt="insta"></a>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="insta-image">
-                        <a href="#"><img src="{{asset('fe/images/insta/ins-4.jpg')}}" alt="insta"></a>
+                        <a href="#"><img src="{{asset('frontend/images/insta/ins-4.jpg')}}" alt="insta"></a>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="insta-image">
-                        <a href="#"><img src="{{asset('fe/images/insta/ins-5.jpg')}}" alt="insta"></a>
+                        <a href="#"><img src="{{asset('frontend/images/insta/ins-5.jpg')}}" alt="insta"></a>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="insta-image">
-                        <a href="#"><img src="{{asset('fe/images/insta/ins-1.jpg')}}" alt="insta"></a>
+                        <a href="#"><img src="{{asset('frontend/images/insta/ins-1.jpg')}}" alt="insta"></a>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="insta-image">
-                        <a href="#"><img src="{{asset('fe/images/insta/ins-7.jpg')}}" alt="insta"></a>
+                        <a href="#"><img src="{{asset('frontend/images/insta/ins-7.jpg')}}" alt="insta"></a>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="insta-image">
-                        <a href="#"><img src="{{asset('fe/images/insta/ins-8.jpg')}}" alt="insta"></a>
+                        <a href="#"><img src="{{asset('frontend/images/insta/ins-8.jpg')}}" alt="insta"></a>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="insta-image">
-                        <a href="#"><img src="{{asset('fe/images/insta/ins-2.jpg')}}" alt="insta"></a>
+                        <a href="#"><img src="{{asset('frontend/images/insta/ins-2.jpg')}}" alt="insta"></a>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="insta-image">
-                        <a href="#"><img src="{{asset('fe/images/insta/ins-6.jpg')}}" alt="insta"></a>
+                        <a href="#"><img src="{{asset('frontend/images/insta/ins-6.jpg')}}" alt="insta"></a>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="insta-image">
-                        <a href="#"><img src="{{asset('fe/images/insta/ins-9.jpg')}}" alt="insta"></a>
+                        <a href="#"><img src="{{asset('frontend/images/insta/ins-9.jpg')}}" alt="insta"></a>
                     </div>
                 </div>
             </div>
